@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- Pythonista
+- Data Scientist wizard
+- Docker captain in training
+- Open Source Software advocate
+- I tango with Django
+- Raspberry Pi maker
+
+```python
+import this
+```
+
 <!--
 **alehpineda/alehpineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
